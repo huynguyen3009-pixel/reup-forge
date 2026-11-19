@@ -1,0 +1,15 @@
+# Work & output folders
+_work/
+output/
+__pycache__/
+*.pyc
+
+# Sensitive config (contains Gemini API key & cookies)
+reup_config.json
+cookies.txt
+*.cookies
+
+# Scratch / unrelated workspace files
+GEMINI.md
+prompt.md
+pubg_ext.cpp
